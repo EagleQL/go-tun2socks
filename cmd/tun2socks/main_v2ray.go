@@ -8,9 +8,9 @@ import (
 	"io/ioutil"
 	"strings"
 
-	vcore "v2ray.com/core"
-	vproxyman "v2ray.com/core/app/proxyman"
-	vbytespool "v2ray.com/core/common/bytespool"
+	vproxyman "github.com/eagleql/xray-core/app/proxyman"
+	vbytespool "github.com/eagleql/xray-core/common/bytespool"
+	vcore "github.com/eagleql/xray-core/core"
 
 	"github.com/eycorsican/go-tun2socks/common/log"
 	"github.com/eycorsican/go-tun2socks/core"

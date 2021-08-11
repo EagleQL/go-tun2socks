@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-	vcore "v2ray.com/core"
-	vsession "v2ray.com/core/common/session"
-	vsignal "v2ray.com/core/common/signal"
-	vtask "v2ray.com/core/common/task"
+	vsession "github.com/eagleql/xray-core/common/session"
+	vsignal "github.com/eagleql/xray-core/common/signal"
+	vtask "github.com/eagleql/xray-core/common/task"
+	vcore "github.com/eagleql/xray-core/core"
 
 	"github.com/eycorsican/go-tun2socks/common/log"
 	"github.com/eycorsican/go-tun2socks/core"

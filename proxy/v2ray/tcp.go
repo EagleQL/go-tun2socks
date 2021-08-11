@@ -7,9 +7,9 @@ import (
 	"io"
 	"net"
 
-	vcore "v2ray.com/core"
-	vnet "v2ray.com/core/common/net"
-	vsession "v2ray.com/core/common/session"
+	vnet "github.com/eagleql/xray-core/common/net"
+	vsession "github.com/eagleql/xray-core/common/session"
+	vcore "github.com/eagleql/xray-core/core"
 
 	"github.com/eycorsican/go-tun2socks/common/log"
 	"github.com/eycorsican/go-tun2socks/core"
