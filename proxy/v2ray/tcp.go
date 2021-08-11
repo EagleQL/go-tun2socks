@@ -11,8 +11,8 @@ import (
 	vsession "github.com/eagleql/xray-core/common/session"
 	vcore "github.com/eagleql/xray-core/core"
 
-	"github.com/eycorsican/go-tun2socks/common/log"
-	"github.com/eycorsican/go-tun2socks/core"
+	"github.com/eagleql/go-tun2socks/common/log"
+	"github.com/eagleql/go-tun2socks/core"
 )
 
 type tcpHandler struct {

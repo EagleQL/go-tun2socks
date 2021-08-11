@@ -4,7 +4,7 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/eycorsican/go-tun2socks/common/lsof"
+	"github.com/eagleql/go-tun2socks/common/lsof"
 )
 
 var logger Logger

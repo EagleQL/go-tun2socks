@@ -9,11 +9,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/eycorsican/go-tun2socks/common/dns"
-	"github.com/eycorsican/go-tun2socks/common/log"
-	"github.com/eycorsican/go-tun2socks/common/lsof"
-	"github.com/eycorsican/go-tun2socks/common/stats"
-	"github.com/eycorsican/go-tun2socks/core"
+	"github.com/eagleql/go-tun2socks/common/dns"
+	"github.com/eagleql/go-tun2socks/common/log"
+	"github.com/eagleql/go-tun2socks/common/lsof"
+	"github.com/eagleql/go-tun2socks/common/stats"
+	"github.com/eagleql/go-tun2socks/core"
 )
 
 type udpHandler struct {

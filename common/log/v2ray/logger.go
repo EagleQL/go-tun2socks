@@ -6,7 +6,7 @@ import (
 
 	vlog "github.com/eagleql/xray-core/common/log"
 
-	"github.com/eycorsican/go-tun2socks/common/log"
+	"github.com/eagleql/go-tun2socks/common/log"
 )
 
 type v2rayLogger struct {

@@ -9,9 +9,9 @@ import (
 
 	sscore "github.com/shadowsocks/go-shadowsocks2/core"
 
-	"github.com/eycorsican/go-tun2socks/common/log"
-	"github.com/eycorsican/go-tun2socks/core"
-	"github.com/eycorsican/go-tun2socks/proxy/shadowsocks"
+	"github.com/eagleql/go-tun2socks/common/log"
+	"github.com/eagleql/go-tun2socks/core"
+	"github.com/eagleql/go-tun2socks/proxy/shadowsocks"
 )
 
 func init() {

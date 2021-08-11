@@ -1,6 +1,6 @@
-module github.com/eycorsican/go-tun2socks
+module github.com/eagleql/go-tun2socks
 
-replace github.com/eycorsican/go-tun2socks => ./
+replace github.com/eagleql/go-tun2socks => ./
 
 go 1.16
 

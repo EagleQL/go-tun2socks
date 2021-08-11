@@ -5,7 +5,7 @@ package main
 import (
 	"flag"
 
-	"github.com/eycorsican/go-tun2socks/common/dns/fakedns"
+	"github.com/eagleql/go-tun2socks/common/dns/fakedns"
 )
 
 func init() {

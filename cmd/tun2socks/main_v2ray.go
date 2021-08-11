@@ -12,9 +12,9 @@ import (
 	vbytespool "github.com/eagleql/xray-core/common/bytespool"
 	vcore "github.com/eagleql/xray-core/core"
 
-	"github.com/eycorsican/go-tun2socks/common/log"
-	"github.com/eycorsican/go-tun2socks/core"
-	"github.com/eycorsican/go-tun2socks/proxy/v2ray"
+	"github.com/eagleql/go-tun2socks/common/log"
+	"github.com/eagleql/go-tun2socks/core"
+	"github.com/eagleql/go-tun2socks/proxy/v2ray"
 )
 
 func init() {
